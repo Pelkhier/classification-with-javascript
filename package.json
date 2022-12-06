@@ -1,0 +1,17 @@
+{
+    "name": "eeg-classification",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "bcijs": "^1.5.1",
+        "fili": "^2.0.3",
+        "js-regression": "^1.0.10"
+    }
+}
